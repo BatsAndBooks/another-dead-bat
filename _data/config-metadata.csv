@@ -1,18 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title, Variant Title
-subject,Subjects,true
-description,Description,
-scientificName, scientific name
-Species Common Name, commonnames
-format,Format,
-type,Type,
+title,Title,
 creator,Creator,
+date,Date Created,
+description,Description,
+subject,Subjects,true
 location,Location
-Publisher, publisher
-Contributer, contributers
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-date,Date Created,
-Filetype, filetype
-Filesize, filesize
-filename, File Name

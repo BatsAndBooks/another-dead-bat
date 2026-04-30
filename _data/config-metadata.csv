@@ -1,17 +1,17 @@
 field,display_name,browse_link,external_link
-title,Title,
-variant_title, Variant Title,
-creator,Creator,
-publisher, Publisher
-contributor, Contributor
-date,Date Created,
-description,Description,
-subject,Subjects,true
-scientific_name, Scientific Name
-species_common_name, Species Common Name
-location,Location
-type,Type,
-format,Format,
-filesize, File Size
-rights,Rights,
+title,Title,,
+variant_title, Variant Title,,
+creator,Creator,,
+publisher, Publisher,,
+contributor, Contributor,,
+date,Date Created,,
+description,Description,,
+subject,Subjects,true,
+scientific_name, Scientific Name,,
+species_common_name, Species Common Name,,
+location,Location,,
+type,Type,,
+format,Format,,
+filesize, File Size,,
+rights,Rights,,
 rightsstatement,Rights Statement,,true

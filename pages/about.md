@@ -20,6 +20,3 @@ This collection highlights the negative effect of wind farms, particularly those
 - providing context for the current bat population crisis caused by White-nose Syndrome (WNS)
 
 This is not intended to be a critique of wind energy, but a factual representation of one adverse consequence resulting from the use of horizontal-axis wind turbines (a.k.a. 3-bladed turbines, or HAWTs). 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 

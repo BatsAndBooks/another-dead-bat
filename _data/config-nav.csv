@@ -1,8 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/,
+Users' Advisory,/advisoty.html,
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
 Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
+Terminology,/terminology.html,About

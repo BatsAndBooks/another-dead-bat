@@ -7,8 +7,8 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
 {% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gansu.Guazhou.windturbine_farm.sunset.jpg/960px-Gansu.Guazhou.windturbine_farm.sunset.jpg" %}
+{% include cb/terminology.md %} 
 ## About the Collection
 
 This collection highlights the negative effect of wind farms, particularly those operating horizontal-axis wind turbines (i.e. HAWTs), on bat populations.  The items included in this collection are selected with the intention of:

@@ -10,7 +10,6 @@ This page briefly explains some of the specialized terminology used in this coll
 #### Barotrauma:  
 In the context of wind energy infrastructure, this refers to the internal injuries resulting from rapid air pressure changes; One of the mechanisms by which the use of HAWTs results in wildlife mortality, this particularly affects bats and occurs when they pass near the rapidly spinning turbine blades and manage to avoid a direct impact - the sudden drop in pressure causes internal organs (most often lungs) to rupture
 
-{% include feature/video.html objectid="(https://docs.wind-watch.org/HornEtAl-videos_files/bat-wind-turbine-video-15.mp4)" caption="Bat struck by rotating turbine blade in the lower portion of the rotor-swept zone" width="50" %}
 #### Collision:  
 In the context of wind energy infrastructure, this refers to the destructive physical contact between flying wildlife and the rotating blades or tower of a wind turbine, resulting in injury or mortality
 

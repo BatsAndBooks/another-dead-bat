@@ -24,7 +24,7 @@ In the context of wind energy infrastructure, this refers to the internal injuri
 In the context of wind energy infrastructure, this refers to the destructive physical contact between flying wildlife and the rotating blades or tower of a wind turbine, resulting in injury or mortality
 
 #### Curtailment:
-The reduction or cessation of wind turbine movement through feathering of wind turbine blades (angling the blades parallel to the wind to slow or stop them from turning) when risk of wildlife collision is determined to be high; Common strategies include raising cut-in speed, blanket curtailment, smart curtailment or informed monitoring-based curtailmen (see also: mitigation, resources)
+The reduction or cessation of wind turbine movement through feathering of wind turbine blades (angling the blades parallel to the wind to slow or stop them from turning) when risk of wildlife collision is determined to be high; Common strategies include raising cut-in speed, blanket curtailment, smart curtailment or informed monitoring-based curtailment (see also: mitigation, resources)
 
 {% include feature/image.html objectid="https://www.eia.gov/energyexplained/wind/images/windmill.png;https://www.eia.gov/energyexplained/wind/images/Darrieus_rotor_martigny_ch.jpg" caption="Horizontal-axis Turbine Design;Vertical-axis Turbine" link="https://www.eia.gov/energyexplained/wind/types-of-wind-turbines.php;https://www.eia.gov/energyexplained/wind/types-of-wind-turbines.php" alt="horizontal axis turbine design;vertical axis wind turbine" %}
 #### Horizontal-axis Wind Turbine:  

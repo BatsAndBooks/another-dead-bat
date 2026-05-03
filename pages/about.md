@@ -10,9 +10,9 @@ credits: true
 {% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gansu.Guazhou.windturbine_farm.sunset.jpg/960px-Gansu.Guazhou.windturbine_farm.sunset.jpg" %}
 
 <nav>  
-  <a href="/about/">About the Collection</a> |  
-  <a href="/terminology/">Terminology</a> |  
-  <a href="/resources/">Resources</a>  
+  <a href="{{ '/about/' | relative_url }}">About the Collection</a> |  
+  <a href="{{ '/terminology/' | relative_url }}">Terminology</a> |  
+  <a href="{{ '/resources/' | relative_url }}">Resources</a>  
 </nav>  
 
 ## About the Collection

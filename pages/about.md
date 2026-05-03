@@ -9,7 +9,13 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gansu.Guazhou.windturbine_farm.sunset.jpg/960px-Gansu.Guazhou.windturbine_farm.sunset.jpg" %}
 
-[About the Collection](https://batsandbooks.github.io/another-dead-bat/about.html) | [Terminology](https://batsandbooks.github.io/another-dead-bat/terminology.html) | [Resources](https://batsandbooks.github.io/another-dead-bat/resources.html)
+<div style="text-align: center; margin: 1.5rem 0; font-weight: 600;">  
+  <a href="https://batsandbooks.github.io/another-dead-bat/about.html">About the Collection</a>  
+  <span style="margin: 0 12px; color: #888;">|</span>  
+  <a href="https://batsandbooks.github.io/another-dead-bat/terminology.html">Terminology</a>  
+  <span style="margin: 0 12px; color: #888;">|</span>  
+  <a href="https://batsandbooks.github.io/another-dead-bat/resources.html">Resources</a>  
+</div> 
 
 ## About the Collection
 

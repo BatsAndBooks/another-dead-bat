@@ -31,7 +31,7 @@ The reduction or cessation of wind turbine movement through feathering of wind t
 The most commonly-used wind turbine design in the U.S., they feature 3 propeller-like blades which rotate in a fan-like pattern; From a distance, the blades (which are up to 100 feet long) appear to be spinning slowly, but the actual speed of the blade tips reaches up to 200 mph, creating a visual effect known as "motion smear" which contributes to direct impact mortality of birds (see also: collision, barotrauma)
 
 #### Mitigation:  
-In the context of wind energy infrastructure, this refers to measures taken in order to minimize or eliminate negative impact on environmental considerations such as wildlife or habitat.  In the case of HAWT wind farms, this generally involves curtailment of turbine activity.  (see also: curtailment)
+In the context of wind energy infrastructure, this refers to measures taken in order to minimize or eliminate negative impact on environmental considerations such as wildlife or habitat.  In the case of HAWT wind farms, this generally involves curtailment of turbine activity  (see also: curtailment)
 
 #### Mortality:  
 In the context of environmental and demographic science, this refers to the rate at which individuals die within a population and signifies population-level impact of the factor(s) under study.

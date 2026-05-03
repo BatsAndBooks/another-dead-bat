@@ -3,6 +3,8 @@ title: Terminology
 layout: about
 permalink: /terminology.html
 ---
+{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gansu.Guazhou.windturbine_farm.sunset.jpg/960px-Gansu.Guazhou.windturbine_farm.sunset.jpg" %}
+
 <div style="text-align: center; margin: 1.5rem 0; font-weight: 600;">  
   <a href="https://batsandbooks.github.io/another-dead-bat/about.html">About the Collection</a>  
   <span style="margin: 0 12px; color: #888;">|</span>  

@@ -34,7 +34,7 @@ The most commonly-used wind turbine design in the U.S., they feature 3 propeller
 In the context of wind energy infrastructure, this refers to measures taken in order to minimize or eliminate negative impact on environmental considerations such as wildlife or habitat.  In the case of HAWT wind farms, this generally involves curtailment of turbine activity  (see also: curtailment)
 
 #### Mortality:  
-In the context of environmental and demographic science, this refers to the rate at which individuals die within a population and signifies population-level impact of the factor(s) under study.
+In the context of environmental and demographic science, this refers to the rate at which individuals die within a population and signifies population-level impact of the factor(s) under study
 
 {% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Little_brown_bat%3B_close-up_of_nose_with_fungus%2C_New_York%2C_Oct._2008._%285765048289%29.jpg/960px-Little_brown_bat%3B_close-up_of_nose_with_fungus%2C_New_York%2C_Oct._2008._%285765048289%29.jpg" width="30" alt="Little Brown Bat with white fuzz on muzzle" caption="Little Brown bat with visible symptoms of WNS" %}
 #### White-nose Syndrome (WNS):  

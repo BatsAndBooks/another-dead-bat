@@ -3,6 +3,14 @@ title: Resources
 layout: about
 permalink: /resources.html
 ---
+<div style="text-align: center; margin: 1.5rem 0; font-weight: 600;">  
+  <a href="https://batsandbooks.github.io/another-dead-bat/about.html">About the Collection</a>  
+  <span style="margin: 0 12px; color: #888;">|</span>  
+  <a href="https://batsandbooks.github.io/another-dead-bat/terminology.html">Terminology</a>  
+  <span style="margin: 0 12px; color: #888;">|</span>  
+  <a href="https://batsandbooks.github.io/another-dead-bat/resources.html">Resources</a>  
+</div> 
+
 ## Resources
 For more information on the topics featured in this collection, please explore these resources!
 ### Bat Species of North America
